@@ -40,13 +40,12 @@ while True:
 ## OUTPUT
 client output:
 
-![Screenshot 2025-04-12 112634](https://github.com/user-attachments/assets/b1e513ab-0045-4fab-a1b0-a1a105e1fdcb)
-
-
+<img width="395" height="277" alt="Screenshot 2025-09-22 151611" src="https://github.com/user-attachments/assets/25391a93-cdef-4538-8468-df29d7d37442" />
 
 server output:
 
-![Screenshot 2025-04-12 112658](https://github.com/user-attachments/assets/a8fe4484-8421-46f1-923a-2025cab091ce)
+<img width="412" height="163" alt="Screenshot 2025-09-22 151604" src="https://github.com/user-attachments/assets/6b0e43a8-a0fc-48af-b05b-0e9800ac1312" />
+
 
 
 
